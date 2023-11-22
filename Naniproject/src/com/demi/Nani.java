@@ -11,6 +11,8 @@ public class Nani {
 		
 		String e=new String("Mani");
 		System.out.println(S==e);
+		
+		System.out.println("success");
 	}
 
 }
